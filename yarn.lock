@@ -2465,9 +2465,9 @@ acorn-jsx@^5.0.0:
   integrity sha512-HJ7CfNHrfJLlNTzIEUTj43LNWGkqpRLxm3YjAlcD0ACydk9XynzYsCBHxut+iqt+1aBXkx9UP/w/ZqMr13XIzg==
 
 acorn@^5.0.0, acorn@^5.6.2:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.7:
   version "6.1.1"
@@ -6795,10 +6795,10 @@ gatsby-source-filesystem@^2.1.2:
     valid-url "^1.0.9"
     xstate "^3.1.0"
 
-gatsby-source-graphql-universal@^3.1.6:
-  version "3.1.6"
-  resolved "https://registry.yarnpkg.com/gatsby-source-graphql-universal/-/gatsby-source-graphql-universal-3.1.6.tgz#42e2bbaed015311195a762afba045c26f84239c2"
-  integrity sha512-bEdsYrK8y3qHzL2R/zb1+in/+i1/qAZJhoxQdTlqGYYNuoDSzucLuQmPyj2gZLDZVPHCRp7VeFK/8DrCg8+mOw==
+gatsby-source-graphql-universal@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/gatsby-source-graphql-universal/-/gatsby-source-graphql-universal-3.2.0.tgz#52f8783882fc9ab90760a7204ffb9f398f22d399"
+  integrity sha512-9BvZv1SlVqf16dnfyGcYyBI2XJPEAJC2vlQFRTG6HWeSNcGSr/82BUnpJQBgC31KSIhsmG35cnQrSlSAihBPZQ==
   dependencies:
     "@babel/runtime" "^7.0.0"
     "@types/graphql" "^14.0.4"
